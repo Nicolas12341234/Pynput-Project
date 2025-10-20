@@ -1,0 +1,57 @@
+{
+  "session_info": {
+    "start_time": 1759817746.8879838,
+    "export_time": 1759817810.5434144,
+    "total_keystrokes": 4,
+    "total_mouse_events": 106
+  },
+  "current_metrics": {
+    "timestamp": 1759817810.5434144,
+    "session_duration": 63.66,
+    "time_since_last_activity": 1.02,
+    "is_inactive": false,
+    "typing_metrics": {
+      "wpm": 1.34,
+      "raw_wpm": 1.34,
+      "accuracy_score": 99.95,
+      "rhythm_consistency": 99.9,
+      "fatigue_score": 32.25,
+      "health_score": 92.7,
+      "avg_keystroke_interval": 0.207,
+      "keystroke_variance": 0.0,
+      "pause_frequency": 0.0,
+      "typing_bursts": 0
+    },
+    "mouse_metrics": {
+      "total_distance": 682.48,
+      "avg_speed": 18.04,
+      "click_frequency": 0.0,
+      "scroll_frequency": 0.0,
+      "movement_smoothness": 91.51,
+      "idle_periods": 0,
+      "active_time_percentage": 100
+    },
+    "total_keystrokes": 4,
+    "total_mouse_events": 106,
+    "app_usage": {}
+  },
+  "fatigue_indicators": {
+    "typing_fatigue": {
+      "low_wpm": true,
+      "high_pause_frequency": false,
+      "irregular_rhythm": false,
+      "high_fatigue_score": false
+    },
+    "mouse_fatigue": {
+      "low_activity": false,
+      "jerky_movements": false,
+      "excessive_idle": false
+    },
+    "overall_fatigue_level": 16.125
+  },
+  "configuration": {
+    "analysis_window": 60,
+    "inactivity_threshold": 30,
+    "data_retention": 3600
+  }
+}
